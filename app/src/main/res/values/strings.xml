@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CurrencyApp</string>
+    <string name="refresh_action">Refresh</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="insert_value">Insert value</string>
+</resources>
